@@ -14,5 +14,6 @@ string Status_lulus(float r){
         return "Lulus tetapi martikulasi 1 tahun";
      else
         return "Gagal";
-    
 }
+
+int main(){}
